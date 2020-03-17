@@ -18,5 +18,5 @@ Si vous souhaitez répondre à tous les questionnaires, cliquez sur le lien du q
 
 ###### Pour plus d'informations à propos de cette étude, vous pouvez nous contacter à ces adresses
 
-`Anne Congard anne.congard@univ-nantes.fr &nbsp; 
+`Anne Congard anne.congard@univ-nantes.fr <br> 
 Amélie Beffara-Bret amelie.bret@univ-nantes.fr`
