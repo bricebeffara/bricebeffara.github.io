@@ -14,10 +14,11 @@ Si vous souhaitez répondre au premier et au dernier questionnaire, cliquez sur 
 
 Si vous souhaitez répondre à tous les questionnaires, cliquez sur le lien du questionnaire ci-dessus. Chaque semaine, vous recevrez un mail de rappel afin de remplir un nouveau questionnaire. 
 
-# ---
+---
 
 ###### Pour plus d'informations à propos de cette étude, vous pouvez nous contacter à ces adresses
 
-`Anne Congard, Professeure des Universités, Psychologie différentielle de la santé e-mail :anne.congard@univ-nantes.fr`
+`Anne Congard, Professeure des Universités, Psychologie différentielle de la santé <br/><br/>
+e-mail :anne.congard@univ-nantes.fr`
 `Amélie Beffara-Bret amelie.bret@univ-nantes.fr`
 `Oscar Navarro Carrascal oscar.navarro@univ-nantes.fr`
