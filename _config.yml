@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Étude psychologie
+github:
+  is_project_page: false
