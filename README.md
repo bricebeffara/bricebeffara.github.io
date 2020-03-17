@@ -1,4 +1,4 @@
-## Bienvenue sur le site de notre étude en ligne
+## Étude de psychologie en ligne
 
 You can use the [editor on GitHub](https://github.com/bricebeffara/etude-psychologie.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
