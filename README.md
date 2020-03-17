@@ -19,7 +19,11 @@ Si vous souhaitez répondre à tous les questionnaires, cliquez sur le lien du q
 #### Pour plus d'informations à propos de cette étude, vous pouvez nous contacter à ces adresses
 
 Anne Congard, Professeure des Universités, Psychologie différentielle de la santé &nbsp;
-e-mail :anne.congard@univ-nantes.fr
+
+e-mail :anne.congard@univ-nantes.fr &nbsp;
+
+&nbsp;
+
 
 Amélie Beffara-Bret amelie.bret@univ-nantes.fr
 
