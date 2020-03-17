@@ -19,8 +19,19 @@ Si vous souhaitez répondre à tous les questionnaires, cliquez sur le lien du q
 #### Pour plus d'informations à propos de cette étude, vous pouvez nous contacter à ces adresses
 
 Anne Congard, Professeure des Universités, Psychologie différentielle de la santé <br/>
-e-mail :anne.congard@univ-nantes.fr <br/><br/>
+anne.congard@univ-nantes.fr <br/><br/>
 
-Amélie Beffara-Bret amelie.bret@univ-nantes.fr
+Amélie Beffara-Bret, Assistante Temporaire d'Enseignement et de Recherche, Psychologie sociale <br/>
+amelie.bret@univ-nantes.fr <br/><br/>
 
-Oscar Navarro Carrascal oscar.navarro@univ-nantes.fr
+Oscar Navarro Carrascal, Maître de Conférences, Psychologie sociale et environnementale <br/>
+oscar.navarro@univ-nantes.fr <br/><br/>
+
+Ghozlane Fleury, Professeure des Universités, Psychologie sociale et environnementale <br/>
+ghozlane.fleury@univ-nantes.fr <br/><br/>
+
+Brice Beffara-Bret, Maître de Conférences, Psychologie et Méthodologie  <br/>
+brice.beffara@univ-nantes.fr <br/><br/>
+
+Abdel Halim Boudoukha, Professeur des Universités, Psychologie Clinique et Pathologique <br/>
+abdel-halim.boudoukha@univ-nantes.fr
