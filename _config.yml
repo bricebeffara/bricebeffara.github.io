@@ -2,15 +2,4 @@ theme: jekyll-theme-cayman
 title: Étude psychologie
 layout: default
 github:
-  is_project_page: false
- 
-# Short description of your site
-description:
-
-# --- Navigation bar options --- #
-
-# List of links in the navigation bar
-navbar-links:
-  About Me: "http://deanattali.com/beautiful-jekyll/"
-  Resources: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  is_project_page: true
