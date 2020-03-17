@@ -17,3 +17,5 @@ Si vous souhaitez répondre à tous les questionnaires, cliquez sur le lien du q
 ---
 
 ###### Pour plus d'informations à propos de cette étude, vous pouvez nous contacter à ces adresses
+
+`Anne Congard anne.congard@univ-nanets.fr`
