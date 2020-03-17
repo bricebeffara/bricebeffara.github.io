@@ -4,9 +4,3 @@ layout: default
 github:
   is_project_page: false
 
-# Site navigation links
-- title: Home
-  url: /
-
-- title: test
-  url: /test/
