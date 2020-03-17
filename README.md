@@ -14,4 +14,6 @@ Si vous souhaitez répondre au premier et au dernier questionnaire, cliquez sur 
 
 Si vous souhaitez répondre à tous les questionnaires, cliquez sur le lien du questionnaire ci-dessus. Chaque semaine, vous recevrez un mail de rappel afin de remplir un nouveau questionnaire. 
 
-###### Pour plus d'informations à propos de cette étude
+---
+
+###### Pour plus d'informations à propos de cette étude, vous pouvez nous contacter à ces adresses
