@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Étude psychologie
 github:
   is_project_page: false
+ 
+# Short description of your site
+description: Étude psychologie
