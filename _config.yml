@@ -11,8 +11,6 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  About Me: "http://deanattali.com/beautiful-jekyll/"
+  Resources: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
