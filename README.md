@@ -14,7 +14,7 @@ Vous pouvez remplir un dossier de questionnaires d'une durée de 15 minutes. Si 
 
 Vous pouvez remplir ce premier dossier et accepter d’être recontacté·e pour faire de même dans 12 semaines. Si vous souhaitez répondre au premier et au dernier questionnaire, cliquez sur le lien du questionnaire ci-dessus. Dans trois mois, vous recevrez un mail de rappel afin de remplir le dernier questionnaire. 
 
-### 3
+### 3.
 
 Vous pouvez remplir ce premier dossier (aujourd’hui et dans 12 semaines) et accepter d’être recontacté·e chaque semaine pour répondre à des questions sur l’évolution de votre ressenti (durée de 5 minutes environ). Si vous souhaitez répondre à tous les questionnaires, cliquez sur le lien du questionnaire ci-dessus. Chaque semaine, vous recevrez un mail de rappel afin de remplir un nouveau questionnaire. 
 
