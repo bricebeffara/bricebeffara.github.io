@@ -22,16 +22,16 @@ Anne Congard, Professeure des Universités, Psychologie différentielle de la sa
 <a href="mailto:anne.congard@univ-nantes.fr">anne.congard@univ-nantes.fr</a> <br/><br/>
 
 Amélie Beffara-Bret, Assistante Temporaire d'Enseignement et de Recherche, Psychologie sociale <br/>
-<a href="amelie.bret@univ-nantes.fr">amelie.bret@univ-nantes.fr</a> <br/><br/>
+<a href="mailto:amelie.bret@univ-nantes.fr">amelie.bret@univ-nantes.fr</a> <br/><br/>
 
 Oscar Navarro Carrascal, Maître de Conférences, Psychologie sociale et environnementale <br/>
-<a href="oscar.navarro@univ-nantes.fr">oscar.navarro@univ-nantes.fr</a> <br/><br/>
+<a href="mailto:oscar.navarro@univ-nantes.fr">oscar.navarro@univ-nantes.fr</a> <br/><br/>
 
 Ghozlane Fleury, Professeure des Universités, Psychologie sociale et environnementale <br/>
-<a href="ghozlane.fleury@univ-nantes.fr">ghozlane.fleury@univ-nantes.fr</a> <br/><br/>
+<a href="mailto:ghozlane.fleury@univ-nantes.fr">ghozlane.fleury@univ-nantes.fr</a> <br/><br/>
 
 Brice Beffara-Bret, Maître de Conférences, Psychologie et Méthodologie  <br/>
-<a href="brice.beffara@univ-nantes.fr">brice.beffara@univ-nantes.fr</a> <br/><br/>
+<a href="mailto:brice.beffara@univ-nantes.fr">brice.beffara@univ-nantes.fr</a> <br/><br/>
 
 Abdel Halim Boudoukha, Professeur des Universités, Psychologie Clinique et Pathologique <br/>
-<a href="abdel-halim.boudoukha@univ-nantes.fr">abdel-halim.boudoukha@univ-nantes.fr</a>
+<a href="mailto:abdel-halim.boudoukha@univ-nantes.fr">abdel-halim.boudoukha@univ-nantes.fr</a>
