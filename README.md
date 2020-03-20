@@ -1,4 +1,4 @@
-## Étude de psychologie en ligne
+## Étude de psychologie en ligne sur le COVID-19
 
 Bienvenue sur le site de notre étude en ligne et merci pour votre temps. Cette étude vise à mieux comprendre les comportements, émotions, et raisonnements des individus à travers le temps. 
 
