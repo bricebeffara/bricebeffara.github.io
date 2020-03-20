@@ -28,7 +28,7 @@ Oscar Navarro Carrascal, Maître de Conférences, Psychologie sociale et environ
 <a href="oscar.navarro@univ-nantes.fr">oscar.navarro@univ-nantes.fr</a> <br/><br/>
 
 Ghozlane Fleury, Professeure des Universités, Psychologie sociale et environnementale <br/>
-<a href="ghozlane.fleury@univ-nantes.frghozlane.fleury@univ-nantes.fr</a> <br/><br/>
+<a href="ghozlane.fleury@univ-nantes.fr">ghozlane.fleury@univ-nantes.fr</a> <br/><br/>
 
 Brice Beffara-Bret, Maître de Conférences, Psychologie et Méthodologie  <br/>
 <a href="brice.beffara@univ-nantes.fr">brice.beffara@univ-nantes.fr</a> <br/><br/>
