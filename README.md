@@ -2,7 +2,7 @@
 
 Bienvenue sur le site de notre étude en ligne et merci pour votre temps. Cette étude vise à mieux comprendre les comportements, émotions, et raisonnements des individus à travers le temps. Pour participer à y participer, vous pouvez :
 
-### Répondre uniquement à notre premier questionnaire
+### Répondre au premier questionnaire
 
 Si vous souhaitez répondre uniquement au premier questionnaire, cliquez simplement sur ce lien : 
 
