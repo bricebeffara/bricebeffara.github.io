@@ -34,8 +34,14 @@ Oscar Navarro Carrascal, Maître de Conférences, Psychologie sociale et environ
 Ghozlane Fleury, Professeure des Universités, Psychologie sociale et environnementale <br/>
 <a href="mailto:ghozlane.fleury@univ-nantes.fr">ghozlane.fleury@univ-nantes.fr</a> <br/><br/>
 
+Abdel Halim Boudoukha, Professeur des Universités, Psychologie Clinique et Pathologique <br/>
+<a href="mailto:abdel-halim.boudoukha@univ-nantes.fr">abdel-halim.boudoukha@univ-nantes.fr</a>
+
 Brice Beffara-Bret, Maître de Conférences, Psychologie et Méthodologie  <br/>
 <a href="mailto:brice.beffara@univ-nantes.fr">brice.beffara@univ-nantes.fr</a> <br/><br/>
+
+#### Si vous souhaitiez parler de cette recherche avec un professionnel de santé (psychologue)
+Vous pouvez contacter le Pr. Abdel Boudoukha :
 
 Abdel Halim Boudoukha, Professeur des Universités, Psychologie Clinique et Pathologique <br/>
 <a href="mailto:abdel-halim.boudoukha@univ-nantes.fr">abdel-halim.boudoukha@univ-nantes.fr</a>
