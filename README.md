@@ -35,7 +35,7 @@ Ghozlane Fleury, Professeure des Universités, Psychologie sociale et environnem
 <a href="mailto:ghozlane.fleury@univ-nantes.fr">ghozlane.fleury@univ-nantes.fr</a> <br/><br/>
 
 Abdel Halim Boudoukha, Professeur des Universités, Psychologie Clinique et Pathologique <br/>
-<a href="mailto:abdel-halim.boudoukha@univ-nantes.fr">abdel-halim.boudoukha@univ-nantes.fr</a>
+<a href="mailto:abdel-halim.boudoukha@univ-nantes.fr">abdel-halim.boudoukha@univ-nantes.fr</a> <br/><br/>
 
 Brice Beffara-Bret, Maître de Conférences, Psychologie et Méthodologie  <br/>
 <a href="mailto:brice.beffara@univ-nantes.fr">brice.beffara@univ-nantes.fr</a> <br/><br/>
