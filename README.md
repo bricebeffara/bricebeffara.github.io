@@ -1,18 +1,22 @@
 ## Étude de psychologie en ligne
 
-Bienvenue sur le site de notre étude en ligne et merci pour votre temps. Cette étude vise à mieux comprendre les comportements, émotions, et raisonnements des individus à travers le temps. Pour participer à y participer, vous pouvez :
+Bienvenue sur le site de notre étude en ligne et merci pour votre temps. Cette étude vise à mieux comprendre les comportements, émotions, et raisonnements des individus à travers le temps. 
 
-### Répondre au premier questionnaire
+La crise sanitaire COVID-19 à laquelle nous faisons face débouche sur une mesure de confinement. Pour en comprendre les conséquences et l'évolution au cours des 12 prochaines semaines, nous vous proposons de participer à une recherche sur votre vécu émotionnel et social dans cette situation.
+ 
+Si vous êtes majeur·e (18 ans ou plus) et intéressé·e, vous pouvez participer à cette recherche à 3 niveaux :
 
-Si vous souhaitez répondre uniquement au premier questionnaire, cliquez simplement sur ce lien : 
+### 1.
 
-### Répondre à notre premier et à notre dernier questionnaire (dans trois mois)
+Vous pouvez remplir un dossier de questionnaires d'une durée de 15 minutes. Si vous souhaitez répondre uniquement à ce premier questionnaire, cliquez simplement sur ce lien : 
 
-Si vous souhaitez répondre au premier et au dernier questionnaire, cliquez sur le lien du questionnaire ci-dessus. Dans trois mois, vous recevrez un mail de rappel afin de remplir le dernier questionnaire. 
+### 2.
 
-### Répondre à tous nos questionnaires (12), une fois par semaine.
+Vous pouvez remplir ce premier dossier et accepter d’être recontacté·e pour faire de même dans 12 semaines. Si vous souhaitez répondre au premier et au dernier questionnaire, cliquez sur le lien du questionnaire ci-dessus. Dans trois mois, vous recevrez un mail de rappel afin de remplir le dernier questionnaire. 
 
-Si vous souhaitez répondre à tous les questionnaires, cliquez sur le lien du questionnaire ci-dessus. Chaque semaine, vous recevrez un mail de rappel afin de remplir un nouveau questionnaire. 
+### 3
+
+Vous pouvez remplir ce premier dossier (aujourd’hui et dans 12 semaines) et accepter d’être recontacté·e chaque semaine pour répondre à des questions sur l’évolution de votre ressenti (durée de 5 minutes environ). Si vous souhaitez répondre à tous les questionnaires, cliquez sur le lien du questionnaire ci-dessus. Chaque semaine, vous recevrez un mail de rappel afin de remplir un nouveau questionnaire. 
 
 ---
 
