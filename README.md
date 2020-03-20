@@ -19,19 +19,19 @@ Si vous souhaitez répondre à tous les questionnaires, cliquez sur le lien du q
 #### Pour plus d'informations à propos de cette étude, vous pouvez nous contacter à ces adresses
 
 Anne Congard, Professeure des Universités, Psychologie différentielle de la santé <br/>
-anne.congard@univ-nantes.fr <br/><br/>
+<a href="mailto:anne.congard@univ-nantes.fr">anne.congard@univ-nantes.fr</a> <br/><br/>
 
 Amélie Beffara-Bret, Assistante Temporaire d'Enseignement et de Recherche, Psychologie sociale <br/>
-amelie.bret@univ-nantes.fr <br/><br/>
+<a href="amelie.bret@univ-nantes.fr">amelie.bret@univ-nantes.fr</a> <br/><br/>
 
 Oscar Navarro Carrascal, Maître de Conférences, Psychologie sociale et environnementale <br/>
-oscar.navarro@univ-nantes.fr <br/><br/>
+<a href="oscar.navarro@univ-nantes.fr">oscar.navarro@univ-nantes.fr</a> <br/><br/>
 
 Ghozlane Fleury, Professeure des Universités, Psychologie sociale et environnementale <br/>
-ghozlane.fleury@univ-nantes.fr <br/><br/>
+<a href="ghozlane.fleury@univ-nantes.frghozlane.fleury@univ-nantes.fr</a> <br/><br/>
 
 Brice Beffara-Bret, Maître de Conférences, Psychologie et Méthodologie  <br/>
-brice.beffara@univ-nantes.fr <br/><br/>
+<a href="brice.beffara@univ-nantes.fr">brice.beffara@univ-nantes.fr</a> <br/><br/>
 
 Abdel Halim Boudoukha, Professeur des Universités, Psychologie Clinique et Pathologique <br/>
-abdel-halim.boudoukha@univ-nantes.fr
+<a href="abdel-halim.boudoukha@univ-nantes.fr">abdel-halim.boudoukha@univ-nantes.fr</a>
