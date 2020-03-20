@@ -2,9 +2,9 @@
 
 Bienvenue sur le site de notre étude en ligne et merci pour votre temps. Cette étude vise à mieux comprendre les comportements, émotions, et raisonnements des individus à travers le temps. 
 
-La crise sanitaire COVID-19 à laquelle nous faisons face débouche sur une mesure de confinement. Pour en comprendre les conséquences et l'évolution au cours des 12 prochaines semaines, nous vous proposons de participer à une recherche sur votre vécu émotionnel et social dans cette situation.
+Nous faisons face à une crise sanitaire liée au virus COVID-19. Pour en comprendre les conséquences psychologiques et l'évolution au cours des 12 prochaines semaines, nous vous proposons de participer à une recherche sur votre vécu émotionnel et social dans cette situation.
  
-Si vous êtes majeur·e (18 ans ou plus) et intéressé·e, vous pouvez participer à cette recherche à 3 niveaux :
+Si vous êtes majeur·e (18 ans ou plus) et que vous vivez en France, vous pouvez participer à cette recherche à 3 niveaux :
 
 ### 1.
 
