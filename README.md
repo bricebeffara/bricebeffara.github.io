@@ -12,7 +12,7 @@ Vous pouvez remplir un dossier de questionnaires d'une durée de 15 minutes. Si 
 
 ### 2.
 
-Si vous avez rempli le premier questionnaire avant le 31/03/2020, vous vous avez pu remplir ce premier dossier et accepté d’être recontacté·e pour faire de même dans 12 semaines. Si vous avez indiqué souhaiter répondre au premier et au dernier questionnaire, vous recevrez un mail de rappel afin de remplir le dernier questionnaire dans quelques mois. 
+Si vous avez rempli le premier questionnaire avant le 31/03/2020, vous avez pu remplir ce premier dossier et accepté d’être recontacté·e pour faire de même dans 12 semaines. Si vous avez indiqué souhaiter répondre au premier et au dernier questionnaire, vous recevrez un mail de rappel afin de remplir le dernier questionnaire dans quelques mois. 
 
 ### 3.
 
