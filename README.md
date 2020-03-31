@@ -8,15 +8,15 @@ Si vous êtes majeur·e (18 ans ou plus) et que vous vivez en France, vous pouve
 
 ### 1.
 
-Vous pouvez remplir un dossier de questionnaires d'une durée de 15 minutes. Si vous souhaitez répondre uniquement à ce premier questionnaire, cliquez simplement sur ce lien :  <a href="https://survey.eu.qualtrics.com/jfe/form/SV_8wsQ04cwuj25w9v" target="_blank">https://survey.eu.qualtrics.com/jfe/form/SV_8wsQ04cwuj25w9v</a> 
+Vous pouvez remplir un dossier de questionnaires d'une durée de 15 minutes. Si vous commencez ce premier questionnaire à partir du 31/03/2020, vous pouvez répondre uniquement à celui-ci. Pour cela, cliquez simplement sur ce lien :  <a href="https://survey.eu.qualtrics.com/jfe/form/SV_8wsQ04cwuj25w9v" target="_blank">https://survey.eu.qualtrics.com/jfe/form/SV_8wsQ04cwuj25w9v</a> 
 
 ### 2.
 
-Vous pouvez remplir ce premier dossier et accepter d’être recontacté·e pour faire de même dans 12 semaines. Si vous souhaitez répondre au premier et au dernier questionnaire, cliquez sur le lien du questionnaire ci-dessus. Dans trois mois, vous recevrez un mail de rappel afin de remplir le dernier questionnaire. 
+Si vous avez rempli le premier questionnaire avant le 31/03/2020, vous vous avez pu remplir ce premier dossier et accepté d’être recontacté·e pour faire de même dans 12 semaines. Si vous avez indiqué souhaiter répondre au premier et au dernier questionnaire, vous recevrez un mail de rappel afin de remplir le dernier questionnaire dans quelques mois. 
 
 ### 3.
 
-Vous pouvez remplir ce premier dossier (aujourd’hui et dans 12 semaines) et accepter d’être recontacté·e chaque semaine pour répondre à des questions sur l’évolution de votre ressenti (durée de 5 minutes environ). Si vous souhaitez répondre à tous les questionnaires, cliquez sur le lien du questionnaire ci-dessus. Chaque semaine, vous recevrez un mail de rappel afin de remplir un nouveau questionnaire. 
+Si vous avez rempli le premier questionnaire avant le 31/03/2020, vous avez pu remplir ce premier dossier et accepté d’être recontacté·e chaque semaine pour répondre à des questions sur l’évolution de votre ressenti (durée de 5 minutes environ). i vous avez indiqué souhaiter répondre à tous les questionnaires, cliquez sur le lien du questionnaire ci-dessus. Chaque semaine, vous recevrez un mail de rappel afin de remplir un nouveau questionnaire. 
 
 ---
 
