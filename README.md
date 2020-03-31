@@ -16,7 +16,7 @@ Si vous avez rempli le premier questionnaire avant le 31/03/2020, vous avez pu r
 
 ### 3.
 
-Si vous avez rempli le premier questionnaire avant le 31/03/2020, vous avez pu remplir ce premier dossier et accepté d’être recontacté·e chaque semaine pour répondre à des questions sur l’évolution de votre ressenti (durée de 5 minutes environ). i vous avez indiqué souhaiter répondre à tous les questionnaires, cliquez sur le lien du questionnaire ci-dessus. Chaque semaine, vous recevrez un mail de rappel afin de remplir un nouveau questionnaire. 
+Si vous avez rempli le premier questionnaire avant le 31/03/2020, vous avez pu remplir ce premier dossier et accepté d’être recontacté·e chaque semaine pour répondre à des questions sur l’évolution de votre ressenti (durée de 5 minutes environ). Si vous avez indiqué souhaiter répondre à tous les questionnaires, cliquez sur le lien du questionnaire ci-dessus. Chaque semaine, vous recevrez un mail de rappel afin de remplir un nouveau questionnaire. 
 
 ---
 
